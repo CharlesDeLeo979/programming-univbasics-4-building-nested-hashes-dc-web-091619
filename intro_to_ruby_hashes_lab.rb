@@ -1,7 +1,7 @@
 def base_hash
   countries_and_capitals_of_the_world = {
-<<<<<<< HEAD
     :railroads => {}
+  }
 end
 
 def monopoly_with_second_tier
